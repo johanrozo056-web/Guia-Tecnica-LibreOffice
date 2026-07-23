@@ -2,7 +2,8 @@
 
 ## Descripción
 
-Este repositorio contiene la guía técnica para la instalación de LibreOffice elaborada para la asignatura Administración de Sistemas Operativos.
+Este repositorio contiene la guía técnica para la instalación de LibreOffice elaborada para la asignatura Tecnicas de Documentación de Software
+.
 
 ## Autor
 
